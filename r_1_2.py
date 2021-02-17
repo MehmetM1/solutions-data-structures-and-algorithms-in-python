@@ -1,2 +1,2 @@
 def is_even(k):
-    pass
+    return 1+1
